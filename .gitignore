@@ -34,14 +34,14 @@ projectFilesBackup
 
 
 /core/clientold/tpl/hbs-tpl.js
-#/core/clientold/assets/css
+/core/clientold/assets/css
 /core/clientold/assets/fonts
 /core/clientold/assets/vendor
 
 #Commenting out /core/client/assets/ for Azure Deployment
 
 #!/core/client/assets/css/ember-hacks.css
-#/core/client/assets/fonts
+
 
 /core/server/data/export/exported*
 /docs
