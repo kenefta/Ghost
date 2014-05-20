@@ -34,14 +34,9 @@ projectFilesBackup
 
 
 /core/clientold/tpl/hbs-tpl.js
-/core/clientold/assets/css
-/core/clientold/assets/fonts
 /core/clientold/assets/vendor
 
 #Commenting out /core/client/assets/ for Azure Deployment
-
-!/core/client/assets/css/ember-hacks.css
-
 
 /core/server/data/export/exported*
 /docs
@@ -68,7 +63,6 @@ CHANGELOG.md
 
 # Built asset files
 #Commenting out /core/built for Azure Deployment
-#/core/built
 
 # Coverage reports
 coverage.html
