@@ -49,7 +49,10 @@ projectFilesBackup
 /content/tmp/*
 /content/data/*
 /content/apps/**/*
-/content/themes/**/*
+
+#Commenting out themes line to allow for addition of additional themes
+#/content/themes/**/*
+
 /content/images/**/*
 !/content/themes/casper/**
 !/README.md
